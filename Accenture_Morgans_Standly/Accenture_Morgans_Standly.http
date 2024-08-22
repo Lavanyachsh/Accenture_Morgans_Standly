@@ -1,0 +1,6 @@
+@Accenture_Morgans_Standly_HostAddress = http://localhost:5230
+
+GET {{Accenture_Morgans_Standly_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
